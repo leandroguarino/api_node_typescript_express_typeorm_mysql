@@ -1,1 +1,5 @@
-# api_node_typescript_express_typeorm_mysql
+# Install dependencies
+yarn
+
+# Run the application
+yarn start:dev
